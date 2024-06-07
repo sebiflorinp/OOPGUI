@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OOPUI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OOPUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OOPUI-Debug-4c0c205fd34913776b5d.json",
+					"name" : "OOPUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OOPUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OOPUI_autogen-Debug-e01cd3a19c1a361a691c.json",
+					"name" : "OOPUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OOPUI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OOPUI_autogen_timestamp_deps-Debug-e890eef0fa5723a988eb.json",
+					"name" : "OOPUI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sebifp/devStuff/ubb/oop/OOPUI/cmake-build-debug",
+		"source" : "/home/sebifp/devStuff/ubb/oop/OOPUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

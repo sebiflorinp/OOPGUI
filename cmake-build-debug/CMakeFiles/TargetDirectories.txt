@@ -1,0 +1,5 @@
+/home/sebifp/devStuff/ubb/oop/OOPUI/cmake-build-debug/CMakeFiles/OOPUI.dir
+/home/sebifp/devStuff/ubb/oop/OOPUI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sebifp/devStuff/ubb/oop/OOPUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sebifp/devStuff/ubb/oop/OOPUI/cmake-build-debug/CMakeFiles/OOPUI_autogen_timestamp_deps.dir
+/home/sebifp/devStuff/ubb/oop/OOPUI/cmake-build-debug/CMakeFiles/OOPUI_autogen.dir
